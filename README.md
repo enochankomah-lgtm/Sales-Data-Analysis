@@ -9,6 +9,9 @@ Data Insights :
 
 Project Structure:
 Dasbhboard Folder -  Contains the PBIX file
+
+<img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/43399dfe-0cd9-4594-9b0a-43fedd550b78" />
+
 Images -  Contains all images from the report
 
 <img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/39e7ab29-c6ec-4c3b-a58c-960bf213ae24" />
