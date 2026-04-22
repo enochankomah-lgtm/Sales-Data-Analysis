@@ -24,7 +24,9 @@ Profit Margin stands at 13%
 West region recorded the highest performance (recoding the highest sales and highest profit)
 
 Identified top-performing products and customer trends
+
   Dashboard Features
+  
 https://github.com/enochankomah-lgtm/Sales-Data-Analysis/blob/261ec0a51f0403a6309669208219de2f16de0b53/Sales%20Data%20Analytics/Images/Executive%20summery.JPG
 
 VISIT DASHBOARD FOLDER FOR MORE DETAILS
