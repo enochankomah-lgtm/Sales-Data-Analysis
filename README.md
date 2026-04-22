@@ -24,31 +24,33 @@ Profit Margin stands at 13%
 West region recorded the highest performance (recoding the highest sales and highest profit)
 
 Identified top-performing products and customer trends
-📊 Dashboard Features
+  Dashboard Features
+https://github.com/enochankomah-lgtm/Sales-Data-Analysis/blob/261ec0a51f0403a6309669208219de2f16de0b53/Sales%20Data%20Analytics/Images/Executive%20summery.JPG
 
-📁 Project Structure
+VISIT DASHBOARD FOLDER FOR MORE DETAILS
+
+  Project Structure
+sql/ -->   Query and Calculation
 Dashboard/ → Power BI file (.pbix)
 Images/ → Dashboard screenshots
 README.md → Project documentation
-🚀 What I Learned
+
+  What I Learned
+writing query to drive information from table  
 Building interactive dashboards in Power BI
 Data storytelling and visualization
 Transforming raw data into actionable insights
-📸 Dashboard Preview
 
 
 
 
-📬 Contact
+
+
+Contact ===> Ghana +233256814670
+Email ==> enoch.ankomah@mentorswithoutborders.net
 
 Feel free to connect with me for opportunities or collaborations.
 
-Sales Data Analysis Project | Power BI
-
-Built an interactive sales dashboard analyzing over 5,000+ orders and 800+ customers
-Identified key insights including revenue trends (GH₵2.33M total sales) and 13% profit margin
-Analyzed regional performance to highlight top-performing areas and products
-Used Power BI and DAX to transform raw data into actionable business insights
 
 
 
