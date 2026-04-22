@@ -1,57 +1,67 @@
-Sales Data Analysis Project
+# 📊 Sales Data Analysis Project
 
- Project Overview
+## 🔍 Project Overview
 
-This project analyzes sales data to uncover key business insights such as revenue trends, customer behavior, regional performance, loss 
-and discount insight. The dashboard was built using Power BI to support data-driven decision-making.
+This project analyzes sales data to uncover key business insights, including revenue trends, customer behavior, regional performance, and the impact of discounts on profitability. The dashboard was developed using Power BI to support data-driven decision-making.
 
- Tools & Technologies
- 
-sql ---> for query through the data and making all the neccessary calculation
+---
 
-Power BI ---> for building interactive and desition making dashbord 
+## 🛠 Tools & Technologies
 
-Excel --- used for temporal analytics using pivot table, functions also for  Data Cleaning & Transformation
+* **SQL** – Queried and analyzed data, performed calculations
+* **Power BI** – Built interactive dashboards and visual reports
+* **Microsoft Excel** – Data cleaning, transformation, and preliminary analysis using pivot tables and functions
 
- Key Insights for Sales Data Analytics
- 
-Total Sales reached GH₵2.33M
+---
 
-Average Order Value is 455
+## 📈 Key Insights
 
-Profit Margin stands at 13%
+* Total Sales reached **GH₵2.33M**
+* Average Order Value: **455**
+* Profit Margin: **13%**
+* **West Region** recorded the highest sales and profit
+* Identified top-performing products and key customer trends
 
-West region recorded the highest performance (recoding the highest sales and highest profit)
+---
 
-Identified top-performing products and customer trends
+## 📊 Dashboard Features
 
-  Dashboard Features
-  
-https://github.com/enochankomah-lgtm/Sales-Data-Analysis/blob/261ec0a51f0403a6309669208219de2f16de0b53/Sales%20Data%20Analytics/Images/Executive%20summery.JPG
+* Sales overview (Total Sales, Orders, Customers)
+* Regional performance analysis
+* Profit and margin insights
+* Product and customer analysis
 
-VISIT DASHBOARD FOLDER FOR MORE DETAILS
+📸 Dashboard Preview:
+![Dashboard](Sales%20Data%20Analytics/Images/Executive%20summery.JPG)
 
-  Project Structure
-sql/ -->   Query and Calculation
-Dashboard/ → Power BI file (.pbix)
-Images/ → Dashboard screenshots
-README.md → Project documentation
+---
 
-  What I Learned
-writing query to drive information from table  
-Building interactive dashboards in Power BI
-Data storytelling and visualization
-Transforming raw data into actionable insights
+## 📁 Project Structure
 
+* `sql/` → Queries and calculations
+* `Dashboard/` → Power BI file (.pbix)
+* `Images/` → Dashboard screenshots
+* `README.md` → Project documentation
 
+---
 
+## 🚀 What I Learned
 
+* Writing SQL queries to extract and analyze data
+* Building interactive dashboards using Power BI
+* Applying data storytelling techniques
+* Transforming raw data into meaningful business insights
 
+---
 
-Contact ===> Ghana +233256814670
-Email ==> enoch.ankomah@mentorswithoutborders.net
+## 📬 Contact
 
-Feel free to connect with me for opportunities or collaborations.
+📍 Ghana
+📞 +233256814670
+📧 [enoch.ankomah@mentorswithoutborders.net](mailto:enoch.ankomah@mentorswithoutborders.net)
+
+Feel free to connect for opportunities or collaboration.
+
 
 
 
